@@ -3,7 +3,7 @@
 #code two weeks ago, I think it's not bad. ----Augest 3th 2018
 
 
-
+import sys
 
 # This is what makes the board work. Each ' ' represents a blank square.
 board = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' '] 
@@ -224,5 +224,5 @@ for w in range(10):
 
 
     #If you have read this far, there is an easter egg if you can get the
-    #shifting squares mode to end in a tie game. Good luck!
+    #shifting squares mode to end in a tie game. Good luck! 251592775 lol
     
